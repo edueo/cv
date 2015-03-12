@@ -16,38 +16,38 @@ ITIL V2
 
 # Experiências
 
-*Jan/15 - Atual*
-ProRadis  
+*Jan/15 - Atual*  
+**ProRadis**  
 Desenvolvedor Web Senior  
 * Propostas de melhorias no workflow de desenvolvimento
 * Refatoração e desenvolvimento de funcionalidades na plataforma de Gestão de clinicas de radiologia.
 
-*Jan/14 - Jan/15*
-Digigroup
+*Jan/14 - Jan/15*  
+**Digigroup**  
 Gerente de Projetos
 * Gestão de projetos digitais
 * Coordenação da equipe de desenvolvimento
 
-*Jul/13 - Dez/13*
-BG7
+*Jul/13 - Dez/13*  
+**BG7**  
 Desenvolvedor Web e Mobile
 * Desenvolvimento de Hotsites
 * Manutenção de lojas virtuais
 * Desenvolvimento de aplicativos mobile
 
-*Jun/10 - Jun/13*
-Digigroup
+*Jun/10 - Jun/13*  
+**Digigroup**  
 Desenvolvedor Web Senior
 * Desenvolvimento de sistemas
 * Suporte e infraestrutura
 
-*Fev/09 - jan/10*
-LQDI
+*Fev/09 - jan/10*  
+**LQDI**  
 Desenvolvedor Web Jr
 * Desenvolvimento de sistemas e sites institucionais
 
-*Jul/07 - Fev/08*
-Unisys  
+*Jul/07 - Fev/08*  
+**Unisys**    
 * Estágio desenvolvimento  
 
 # Skills
