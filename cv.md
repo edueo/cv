@@ -9,7 +9,7 @@ skype: eduardoalencaroliveira
 Web Developer
 
 # Formação 
-Bacharel em Ciência da Computação - Centro Universitario SENAC 2010
+Bacharel em Ciência da Computação - Centro Universitario SENAC (2010)
 
 # Certificações
 ITIL V2
