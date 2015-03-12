@@ -47,8 +47,8 @@ Desenvolvedor Web Jr
 * Desenvolvimento de sistemas e sites institucionais
 
 *Jul/07 - Fev/08*
-Unisys
-Estágio desenvolvimento
+Unisys  
+Estágio desenvolvimento  
 
 # Skills
 
