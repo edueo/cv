@@ -48,7 +48,7 @@ Desenvolvedor Web Jr
 
 *Jul/07 - Fev/08*
 Unisys  
-Estágio desenvolvimento  
+* Estágio desenvolvimento  
 
 # Skills
 
