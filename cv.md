@@ -1,7 +1,9 @@
 # Eduardo Alencar
-skype: eduardoalencaroliveira  
-[Github](http://github.com/edueo)  
-11 96713-8126   
+28 anos, brasileiro, casado  
+São Paulo - SP  
+skype: eduardoalencaroliveira    
+[Github](http://github.com/edueo)    
+11 96713-8126     
 
 # Objetivo
 Web Developer
